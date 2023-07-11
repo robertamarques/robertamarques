@@ -43,6 +43,6 @@ I have a degree in Design (USC) and Systems Analysis and Development (FATEC)
 
 ### 📊 GitHub stats
 ![Robs's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertamarques&show_icons=true&rank_icon=github&hide_border=true&title_color=40E0D0&bg_color=17202A&icon_color=FFE527&text_color=C3C3C3&border_radius=15)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true&title_color=40E0D0&bg_color=17202A&icon_color=FFE527&text_color=C3C3C3&border_radius=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertamarques&layout=compact&hide_border=true&title_color=40E0D0&bg_color=17202A&icon_color=FFE527&text_color=C3C3C3&border_radius=15)
 
 #### Build with 🤍
