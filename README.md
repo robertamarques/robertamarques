@@ -1,6 +1,9 @@
-### Hello, I'm Roberta Marques 😉
+<p align="center">
+<img src="header.svg" />
+</p>
+<br/>
 
-### 👩‍💻 About me
+### 😉 About me
 I have a degree in Design (USC) and Systems Analysis and Development (FATEC)
 - ✒️ **Designer** *since 2018*
 - 💻 **Systems Analyst** *since 2021*
